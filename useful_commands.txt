@@ -1,0 +1,3 @@
+git status // view the status
+git add <file-name> // stage changes in a file
+
