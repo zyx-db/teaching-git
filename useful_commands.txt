@@ -1,5 +1,6 @@
 git status // view the status
 git add <file-name> // stage changes in a file
+git commit <message> // make commit
 
 
 git push // put commited changes on github
